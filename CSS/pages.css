@@ -1,0 +1,18 @@
+
+
+
+.home-opening-picture{
+  width: 200px;
+  flex:1;
+  display: flex;
+  flex-shrink: 0;
+  margin-right: 20px;
+  object-fit: contain;
+}
+
+.picture-opening{
+  object-fit: contain;
+  width: 200px;
+}
+
+

@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  flex: 1;
+  justify-content: right;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.image-logo{
+  width: 40px;
+  margin-right:100px;
+  margin-top: 3px;
+}
+
+.header-button{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 14px;
+}
+
+
+
+
+
+
+
+
